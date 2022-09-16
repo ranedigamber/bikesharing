@@ -29,14 +29,16 @@ URL to this graph in Tableau (https://public.tableau.com/app/profile/digamber.ra
 ![Checkout time All Users](https://user-images.githubusercontent.com/107159218/190541981-3b9ed79a-57fb-4aac-b81f-b254c2b0720e.png)
 
 2. Line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender. 
-Male generally have a higher usage of this service over other genders
+
+**Male generally have a higher usage of this service over other genders**
 
 URL to this graph in Tableau (https://public.tableau.com/app/profile/digamber.rane/viz/NYC-BikeShare-Challenge-CheckouttimebyGender/CheckoutTimesbyGender)
 
 ![Checkout Times by Gender](https://user-images.githubusercontent.com/107159218/190542310-884a3abd-7a05-4c4c-ab62-0b0fea43e988.png)
 
 3. A heatmap is created showing the number of bike trips for each hour of each day of the week 
-Morning 6-10 and evening 4-8 seem like the peak hours of usage of this service
+
+**Morning 6-10 and evening 4-8 seem like the peak hours of usage of this service**
 
 URL to this graph on Tableau (https://public.tableau.com/app/profile/digamber.rane/viz/NYC-BikeShare-Challenge-TripsbyWeekdayHour/TripsbyWeekdayHour)
 
@@ -44,26 +46,31 @@ URL to this graph on Tableau (https://public.tableau.com/app/profile/digamber.ra
 
 4. A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender
 
+**Males are the highest users of this service during the peak hours**
+
 URL to this graph on Tableau (https://public.tableau.com/app/profile/digamber.rane/viz/NYC-BikeShare-Challenge-TripsbyGender/TripsbyGender)
 
 ![Trips by Gender](https://user-images.githubusercontent.com/107159218/190542662-8e86262a-589f-4ce5-ac71-126db9e2ad94.png)
 
 5. A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender
-Males tend to be the largest users of this service
+
+**Males tend to be the largest users of this service**
 
 URL to this graph on Tableau (https://public.tableau.com/app/profile/digamber.rane/viz/NYC-BikeShare-Challenge-UserTripsbyGenderbyWeekday/UserTripsbyGenderbyWeekday) 
 
 ![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/107159218/190542772-a4384468-3f54-4df0-957f-765e00c99ac1.png)
 
 6. Additional analysis and visualization from the modules (Compilation of total number of users)
-More that 85% of users of this service are subscribers
+
+**More that 85% of users of this service are subscribers**
 
 URL to this graph on Tableau (https://public.tableau.com/app/profile/digamber.rane/viz/NYC-BikeShare-ModulesUsers/NYC-BikeRideShare-Users)
 
 ![NYC-BikeRideShare-Users](https://user-images.githubusercontent.com/107159218/190543253-941d7084-bd12-4064-9247-6356cb030335.png)
 
 7. Additional analysis and visualization from the modules (Compilation of users by gender type)
-More that 80% of users are males
+
+**More that 80% of users are males**
 
 URL to this graph on Tableau (https://public.tableau.com/app/profile/digamber.rane/viz/NYC-BikeShare-ModulesGenderBreakdown/GenderBreakdown)
 
