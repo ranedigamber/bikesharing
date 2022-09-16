@@ -69,4 +69,3 @@ Based on the analysis of the data from NYC provided the following observations c
 2. Males a by far the biggest users of this service
 3. During weekdays hours 6-9 and 4-7 sees the highest usage and demand of this service in both genders. Males tend to be users of this service even on weekend from 7-5
 
-### Theater Outcome Based on Launch Date
