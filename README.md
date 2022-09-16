@@ -20,7 +20,7 @@ Here's the data type description after transforamtion including a new field (new
 ### Analysis and Visualization in Tableau
 
 ### Deliverable 2.
-1. * *Line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour.* *
+1. Line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour.
 
 **The usage reached to a max of 3000 min per user**
 
@@ -29,7 +29,8 @@ URL to this graph in Tableau (https://public.tableau.com/app/profile/digamber.ra
 ![Checkout time All Users](https://user-images.githubusercontent.com/107159218/190541981-3b9ed79a-57fb-4aac-b81f-b254c2b0720e.png)
 
 
-2. * *Line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender.* * 
+
+2. Line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender.
 
 **Male generally have a higher usage of this service over other genders**
 
@@ -39,7 +40,7 @@ URL to this graph in Tableau (https://public.tableau.com/app/profile/digamber.ra
 
 
 
-3. * *A heatmap is created showing the number of bike trips for each hour of each day of the week * * 
+3. A heatmap is created showing the number of bike trips for each hour of each day of the week.
 
 **Morning 6-10 and evening 4-8 seem like the peak hours of usage of this service**
 
@@ -49,7 +50,7 @@ URL to this graph on Tableau (https://public.tableau.com/app/profile/digamber.ra
 
 
 
-4. * *A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender. * *
+4. A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender.
 
 **Males are the highest users of this service during the peak hours**
 
@@ -59,7 +60,7 @@ URL to this graph on Tableau (https://public.tableau.com/app/profile/digamber.ra
 
 
 
-5. * *A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender. * *
+5. A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender.
 
 **Males tend to be the largest users of this service**
 
@@ -69,7 +70,7 @@ URL to this graph on Tableau (https://public.tableau.com/app/profile/digamber.ra
 
 
 
-6. * *Additional analysis and visualization from the modules (Compilation of total number of users)* *
+6. Additional analysis and visualization from the modules (Compilation of total number of users)
 
 **More that 85% of users of this service are subscribers**
 
@@ -79,7 +80,7 @@ URL to this graph on Tableau (https://public.tableau.com/app/profile/digamber.ra
 
 
 
-7. * *Additional analysis and visualization from the modules (Compilation of users by gender type)* *
+7. Additional analysis and visualization from the modules (Compilation of users by gender type)
 
 **More that 80% of users are males**
 
