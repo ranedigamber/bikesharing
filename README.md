@@ -21,7 +21,8 @@ Here's the data type description after transforamtion including a new field (new
 
 ### Deliverable 2.
 1. Line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour.
-The usage reached to a max of 3000 min per user
+
+**The usage reached to a max of 3000 min per user**
 
 URL to this graph in Tableau (https://public.tableau.com/app/profile/digamber.rane/viz/NYC-BikeShare-Challenge/CheckouttimeAllUsers) 
 
